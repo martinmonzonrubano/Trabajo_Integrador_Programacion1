@@ -8,11 +8,11 @@ Materia: Programación I
 
 Profesor Coordinador: Alberto Cortez
 
-Profesor a cargo comisión: 
-Cinthia Rigoni
-Julieta Trapé
-Nicolas Quirós Ricci
-Sebastián Bruselario
+Profesores a cargo de la comisión: 
+Cinthia Rigoni, 
+Julieta Trapé, 
+Nicolas Quirós Ricci, 
+Sebastián Bruselario, 
 Ariel Enferrel
 
 

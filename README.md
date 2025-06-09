@@ -6,7 +6,15 @@ Alumnos:
             
 Materia: Programación I
 
-Profesor/a: Julieta Trape ; Profesor Coordinador: Cinthia Rigoni
+Profesor Coordinador: Alberto Cortez
+
+Profesor a cargo comisión: 
+Cinthia Rigoni
+Julieta Trapé
+Nicolas Quirós Ricci
+Sebastián Bruselario
+Ariel Enferrel
+
 
 Fecha de Entrega: 09/6/2025
 
